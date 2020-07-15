@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blocks should match snapshot 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4"
+>
+  <div
+    className="MuiBox-root MuiBox-root-5"
+  >
+    Failed to get the data. Please try again.
+  </div>
+</div>
+`;
